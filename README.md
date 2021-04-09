@@ -1,4 +1,4 @@
-# nexnet
+# Flutter DDD Broiler Plate
 
 A new Flutter project.
 
